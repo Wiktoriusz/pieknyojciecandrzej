@@ -1,5 +1,6 @@
-<html><head></head><body><doctype html="">
-
+<html><head>
+ </head>
+ <body>
 
 <title>PIĘKNE ZDJĘCIA OJCA ANDRZEJA I CYTATY</title>
 
@@ -81,8 +82,11 @@ ad op
   <td></td>
   <td class="selected">yaaaaay</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 
-</doctype></body></html>
+
+</body>
+</html>
 
